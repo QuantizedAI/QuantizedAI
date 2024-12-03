@@ -23,16 +23,16 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: contact@quantizedai.com
-#facebook_username: 
-#twitter_username: 
-#instagram_username: 
+facebook_username: 
+twitter_username: 
+instagram_username: 
 linkedin_username: quantized_ai
 github_username:  quantizedai
 youtube_channel_id: UCg_Q_mHzsuomn8fVvpdCFDw
 reddit_username: /quantizedai
-#behance_username: /
-#dribbble_username: /
-#spotify_username: /
+behance_username: /
+dribbble_username: /
+spotify_username: /
 
 # Google Analytics
 google-analytics: UA-163806439-1
