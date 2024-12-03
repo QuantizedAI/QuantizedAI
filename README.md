@@ -1,6 +1,6 @@
 # Swissup Docs
 
-[docs.swissuplabs.com](https://quantizedai.com/)
+[quantizedai.com](https://quantizedai.com/)
 
 ## Requirements
 
