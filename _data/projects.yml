@@ -3,7 +3,7 @@
   link: "https://huggingface.co/qualcomm/Yolo-NAS-Quantized/resolve/main/Yolo-NAS-Quantized.tflite?download=true"  # Adjust to real link
   description: "Yolo-NAS-Quantized is a lightweight, optimized YOLO model using NAS and quantization for efficient object detection."
 
-- name: ResNet50Quantized.onnx
+- name: Res-Net-50-Quantized.onnx
   link: https://huggingface.co/qualcomm/ResNet50Quantized/resolve/main/ResNet50Quantized.onnx?download=true
   image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMexhmEsP3-BXXv81IxG4ibshafL0U1Is15w&s
   description: ResNet50Quantized.onnx is a quantized version of the ResNet50 model, saved in the ONNX format, designed to optimize performance and reduce computational cost while maintaining accuracy for image classification tasks.
