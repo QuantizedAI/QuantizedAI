@@ -1,3 +1,15 @@
+- name: "Inf Model"
+  subtitle: "AI Model for Image Classification"
+  image: "https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg"
+  category: "AI/Deep Learning"
+  link: "http://ipv4.download.thinkbroadband.com/5MB.zip"  # Adjust to real link
+  description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptas adipisci tempore illo accusantium."
+  date: "December 2024"
+  tags:
+    - "Deep Learning"
+    - "Image Classification"
+    - "Optimization"
+
 - name: Last Project
   link: http://ipv4.download.thinkbroadband.com/5MB.zip
   image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
