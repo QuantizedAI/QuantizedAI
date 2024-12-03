@@ -5,5 +5,5 @@
 
 - name: ResNet50Quantized.onnx
   link: https://huggingface.co/qualcomm/ResNet50Quantized/resolve/main/ResNet50Quantized.onnx?download=true
-  image: https://resize.latenode.com/cdn-cgi/image/width=960,format=auto,fit=scale-down/https://cdn.prod.website-files.com/62c40e4513da320b60f32941/66a8c8f98dad82efb9a4e315_%D0%A1%D0%9C%D0%98%20(5)-p-800.jpg
+  image: "https://resize.latenode.com/cdn-cgi/image/width=960,format=auto,fit=scale-down/https://cdn.prod.website-files.com/62c40e4513da320b60f32941/66a8c8f98dad82efb9a4e315_%D0%A1%D0%9C%D0%98%20(5)-p-800.jpg"
   description: ResNet50Quantized.onnx is a quantized version of the ResNet50 model, saved in the ONNX format, designed to optimize performance and reduce computational cost while maintaining accuracy for image classification tasks.
