@@ -1,4 +1,4 @@
-# Swissup Docs
+# QuantizedAI
 
 [quantizedai.com](https://quantizedai.com/)
 
