@@ -1,0 +1,72 @@
+- href: /images/m2/gdpr/frontend/cookie-bar-full.png?v=1
+  src: /images/m2/gdpr/frontend/small/cookie-bar-full.png?v=1
+  title: Configurable cookie bar.
+  w: 2350
+  h: 1382
+- href: /images/m2/gdpr/frontend/cookie-bar-mini.png?v=1
+  src: /images/m2/gdpr/frontend/small/cookie-bar-mini.png?v=1
+  title: Configurable cookie bar.
+  w: 2350
+  h: 1382
+- href: /images/m2/gdpr/frontend/newsletter.png
+  src: /images/m2/gdpr/frontend/small/newsletter.png
+  title: Consent in the newsletter form
+  w: 470
+  h: 451
+- href: /images/m2/gdpr/frontend/registration.png
+  src: /images/m2/gdpr/frontend/small/registration.png
+  alt: Consents on customer registration page
+  title: >
+    Configurable consents at the Customer Registration page.
+  w: 623
+  h: 837
+- href: /images/m2/gdpr/frontend/contacts.png
+  src: /images/m2/gdpr/frontend/small/contacts.png
+  alt: Consent at the contacts page
+  title: >
+    Configurable consent at the Contact Us page.
+  w: 615
+  h: 648
+- href: /images/m2/gdpr/frontend/privacy-tools.png
+  src: /images/m2/gdpr/frontend/small/privacy-tools.png
+  alt: Privacy Tools Page
+  w: 1029
+  h: 1345
+- href: /images/m2/gdpr/frontend/delete-data-warning.png
+  src: /images/m2/gdpr/frontend/small/delete-data-warning.png
+  alt: Delete Data Warning
+  title: >
+    Customer can view accepted consents and request account deletion
+  w: 599
+  h: 457
+- href: /images/m2/gdpr/configuration/all.png
+  src: /images/m2/gdpr/configuration/small/all.png
+  alt: Configuration
+  w: 723
+  h: 585
+- href: /images/m2/gdpr/backend/cookie-registry.png
+  src: /images/m2/gdpr/backend/small/cookie-registry.png
+  alt: Cookie Registry
+  w: 969
+  h: 428
+- href: /images/m2/gdpr/backend/cookie-form.png
+  src: /images/m2/gdpr/backend/small/cookie-form.png
+  alt: Edit cookie form
+  w: 965
+  h: 520
+- href: /images/m2/gdpr/backend/accepted-consents.png
+  src: /images/m2/gdpr/backend/small/accepted-consents.png
+  alt: Accepted Consents
+  w: 1031
+  h: 586
+- href: /images/m2/gdpr/backend/clients-requests.png
+  src: /images/m2/gdpr/backend/small/clients-requests.png
+  alt: Client's Requests
+  w: 1100
+  h: 434
+- href: /images/m2/gdpr/google-consent.png
+  src: /images/m2/gdpr/google-consent-sm.png
+  alt: Works with Google Consent Mode v2
+  title: Works with Google Consent Mode v2
+  w: 1545
+  h: 881

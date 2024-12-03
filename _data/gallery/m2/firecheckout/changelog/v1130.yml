@@ -1,0 +1,21 @@
+- title: >
+    New themes added: Light, Round, and Midnight.
+  href: /images/m2/firecheckout/frontend/themes/all.png
+  src: /images/m2/firecheckout/frontend/themes/small/all.png
+  w: 1221
+  h: 872
+- title: Notice and error messages in the tooltips
+  href: /images/m2/firecheckout/frontend/tooltips/tooltips-enabled.png
+  src: /images/m2/firecheckout/frontend/tooltips/small/tooltips-enabled.png
+  w: 412
+  h: 586
+- title: Slightly improved credit card form styles
+  href: /images/m2/firecheckout/changelog/1130/payment-form-cc.png
+  src: /images/m2/firecheckout/changelog/1130/small/payment-form-cc.png
+  w: 800
+  h: 665
+- title: Order review section with shipping information
+  href: /images/m2/firecheckout/frontend/order-review/order-review.png
+  src: /images/m2/firecheckout/frontend/order-review/small/order-review.png
+  w: 410
+  h: 593

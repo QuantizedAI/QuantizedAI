@@ -1,0 +1,4 @@
+services:
+- name: jekyll
+  command: bundle exec jekyll serve --livereload --incremental
+

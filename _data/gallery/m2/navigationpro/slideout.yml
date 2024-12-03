@@ -1,0 +1,18 @@
+- href: /images/m2/navigationpro/slideout/ribbon.gif
+  src: /images/m2/navigationpro/slideout/small/ribbon.png
+  title: >
+    Vertical slideout menu with 'ribbon' modifier
+  w: 675
+  h: 390
+- href: /images/m2/navigationpro/slideout/accordion.gif
+  src: /images/m2/navigationpro/slideout/small/accordion.png
+  title: >
+    Vertical slideout menu with 'accordion' and 'dark' modifiers
+  w: 675
+  h: 390
+- href: /images/m2/navigationpro/slideout/stacked.gif
+  src: /images/m2/navigationpro/slideout/small/stacked.png
+  title: >
+    Vertical slideout menu with 'stacked' modifier
+  w: 675
+  h: 390
