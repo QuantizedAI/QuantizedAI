@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: Quantized AI
 # Description of the Site
-description:  A website dedicated to deep learning optimization and quantization
+description:  A platform dedicated to deep learning optimization and quantization
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -23,16 +23,16 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: contact@quantizedai.com
-facebook_username: quantizedai
-twitter_username: quantizedai
-instagram_username: quantizedai
+#facebook_username: 
+#twitter_username: 
+#instagram_username: 
 linkedin_username: quantized_ai
 github_username:  quantizedai
 youtube_channel_id: quantizedai
 reddit_username: /quantizedai
-behance_username: /
-dribbble_username: /
-spotify_username: /
+#behance_username: /
+#dribbble_username: /
+#spotify_username: /
 
 # Google Analytics
 google-analytics: UA-163806439-1
