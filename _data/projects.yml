@@ -1,4 +1,4 @@
-- name: "Yolo-NAS-Quantized.tiflite"
+- name: "Yolo-NAS-Quantized.tflite"
   image: "https://www.vietanh.dev/posts-data/yolo-nas/optimized-images/yolo-nas-opt-640.WEBP"
   link: "https://huggingface.co/qualcomm/Yolo-NAS-Quantized/resolve/main/Yolo-NAS-Quantized.tflite?download=true"  # Adjust to real link
   description: "Yolo-NAS-Quantized is a lightweight, optimized YOLO model using NAS and quantization for efficient object detection."
