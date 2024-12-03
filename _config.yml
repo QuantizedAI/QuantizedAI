@@ -4,9 +4,9 @@ email: support@swissuplabs.com
 description: > # this means to ignore newlines until "baseurl:"
   SwissUpLabs extensions and themes documentation for Magento and Magento2
 baseurl: ""
-url: "https://docs.swissuplabs.com/"
+url: "https://quantizedai.com/"
 
-repository: swissup/swissup.github.io
+repository: quantizedai/quantizedai.github.io
 
 permalink: pretty
 
@@ -28,10 +28,10 @@ exclude:
   - node_modules
 
 github:
-  repository_url: https://github.com/swissup/swissup.github.io
+  repository_url: https://github.com/quantizedai/quantizedai.github.io
 
 prose:
-  siteurl: "https://swissup.github.io/"
+  siteurl: "https://quantizedai.github.io/"
   media: "media"
   ignore:
     - .gitignore
