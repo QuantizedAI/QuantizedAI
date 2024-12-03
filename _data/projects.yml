@@ -1,9 +1,9 @@
 - name: "Yolo-NAS-Quantized.tflite"
   image: "https://www.vietanh.dev/posts-data/yolo-nas/optimized-images/yolo-nas-opt-640.WEBP"
   link: "https://huggingface.co/qualcomm/Yolo-NAS-Quantized/resolve/main/Yolo-NAS-Quantized.tflite?download=true"  # Adjust to real link
-  description: "Optimized YOLO NAS model using quantization."
+  description: "Optimized YOLO NAS model using quantization"
 
 - name: ResNet-50-Quantized.onnx
   link: https://huggingface.co/qualcomm/ResNet50Quantized/resolve/main/ResNet50Quantized.onnx?download=true
   image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMexhmEsP3-BXXv81IxG4ibshafL0U1Is15w&s
-  description: Optimized ResNet 50 model using quantization.
+  description: Optimized ResNet 50 model using quantization
