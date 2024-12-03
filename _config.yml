@@ -2,18 +2,18 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: 'https://quantizedai.com'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
 
 # Title of the Site
-title: What A Theme
+title: Quantized AI
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description:  A portfolio and blog dedicated to deep learning optimization and quantization
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: Deep Learning, Optimization, Quantization, AI, Machine Learning
 # URL for the Image of custom Favicon
 favicon-url: 
 
@@ -22,14 +22,14 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
-reddit_username: /
+email: contact@quantizedai.com
+facebook_username: quantizedai
+twitter_username: quantizedai
+instagram_username: quantizedai
+linkedin_username: quantized_ai
+github_username:  quantizedai
+youtube_channel_id: quantizedai
+reddit_username: /quantizedai
 behance_username: /
 dribbble_username: /
 spotify_username: /
@@ -38,16 +38,16 @@ spotify_username: /
 google-analytics: UA-163806439-1
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname: quantizedai
 
 # Name of the Author
-author-name: TheDevsLot
+author-name: Quantized AI Team
 # URL for the Image of the Author
 author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about: Quantized AI is a team of deep learning researchers and practitioners focused on optimization techniques and quantization methods. We aim to improve model efficiency and deploy scalable AI solutions to revolutionize industries with cutting-edge technology in deep learning.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://github.com/quantizedai
 
 # SASS
 sass:
