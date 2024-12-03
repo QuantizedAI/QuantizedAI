@@ -1,0 +1,7 @@
+[
+  {% for model in site.data.models %}
+    {
+      "title" : "{{ model.name | escape }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
