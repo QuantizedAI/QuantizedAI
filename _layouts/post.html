@@ -34,10 +34,10 @@ layout: compress
               Published on
               <b>{{ page.date | date: "%-B %d, %Y" }}</b> by 
               {% if page.author %}
-                <a href="{% if site.authors[page.author] %}{{ site.authors[page.author].url }}{% else %}{{site.url}}/#about{% endif %}" target="_blank">
+                <a href="{% if site.authors[page.author] %}{{ site.authors[page.author].url }}{% else %}{{site.url}}#about{% endif %}" target="_blank">
                   <b class="has-text-link"><u>{{ page.author }}</u></b>
               {% else %}
-                <a href="{% if site.author-url %}{{site.author-url}}{% else %}{{site.url}}{{site.baseurl}}/#about{% endif %}" target="_blank">
+                <a href="{% if site.author-url %}{{site.author-url}}{% else %}{{site.url}}{{site.baseurl}}#about{% endif %}" target="_blank">
                   <b class="has-text-link"><u>{{ site.author-name }}</u></b>
                 </a>
               {% endif %}
