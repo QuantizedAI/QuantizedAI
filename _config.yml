@@ -40,8 +40,24 @@ google-analytics: UA-163806439-1
 # Disqus
 disqus-shortname: quantizedai
 
+
+# Authors Information
+authors:
+  John Doe:
+    name: John Doe
+    bio: Lead Researcher in model optimization.
+    image: https://example.com/johndoe.jpg
+    url: https://github.com/johndoe
+    
+  Jane Smith:
+    name: Jane Smith
+    bio: Software Engineer specializing in AI deployment.
+    image: https://example.com/janesmith.jpg
+    url: https://twitter.com/janesmith
+
+# Default Author Information
 # Name of the Author
-author-name: Quantized AI Team
+author-name: Quantized AI
 # URL for the Image of the Author
 author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
