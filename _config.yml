@@ -64,7 +64,7 @@ author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-pictu
 author-about: Quantized AI is a cutting-edge team of deep learning researchers and practitioners dedicated to advancing optimization techniques and efficient inference methods. We specialize in improving model performance, reducing computational costs, and enabling real-time, scalable AI solutions across industries. Our research focuses on developing state-of-the-art methods, including quantization, pruning, knowledge distillation, and model compression, to make deep learning models faster, more resource-efficient, and easier to deploy on edge devices and cloud platforms. Through a deep understanding of model architecture and hardware constraints, we aim to push the boundaries of AI scalability, ensuring that complex models can be deployed with minimal computational overhead while maintaining accuracy and reliability. Quantized AI is committed to transforming how industries leverage AI, providing innovative solutions that accelerate decision-making and optimize performance across sectors such as healthcare, finance, robotics, and more.
 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/quantizedai
+# author-url: https://github.com/quantizedai
 
 # SASS
 sass:
