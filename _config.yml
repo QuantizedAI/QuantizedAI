@@ -13,7 +13,28 @@ description:  A platform dedicated to deep learning optimization and quantizatio
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: Deep Learning, Optimization, Quantization, AI, Machine Learning
+#site-keywords: Deep Learning, Optimization, Quantization, AI, Machine Learning
+site-keywords: 
+  - Deep Learning
+  - AI Optimization
+  - AI Quantization
+  - Machine Learning Optimization
+  - Model Optimization
+  - Neural Network Compression
+  - Efficient AI Solutions
+  - Real-time AI Inference
+  - Scalable AI
+  - Quantized AI
+  - AI Deployment
+  - Edge AI
+  - Deep Learning Frameworks
+  - AI Performance Improvement
+  - AI for Businesses
+  - QuantizedAI
+
+# Your Google Search Console verification code
+# google-verification: "your-verification-code"
+
 # URL for the Image of custom Favicon
 favicon-url: 
 
