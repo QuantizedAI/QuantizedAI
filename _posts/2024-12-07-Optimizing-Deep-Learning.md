@@ -1,9 +1,8 @@
-
 ---
 title: Optimizing Deep Learning Models with Quantization and Pruning
 layout: post
 author: Anis Taluqdar
-post-image: https://ieor.columbia.edu/sites/default/files/styles/cu_crop/public/content/images/research-optimization-01.jpg?itok=bPwlJ-f4
+post-image: "https://ieor.columbia.edu/sites/default/files/styles/cu_crop/public/content/images/research-optimization-01.jpg?itok=bPwlJ-f4"
 description: An in-depth guide on optimizing deep learning models using quantization, pruning, and other advanced techniques.
 tags:
 - optimization
