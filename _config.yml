@@ -64,10 +64,10 @@ disqus-shortname: quantizedai
 
 # Authors Information
 authors:
-  John Doe:
-    name: John Doe
+  Anis Taluqdar:
+    name: Anis Taluqdar
     bio: Lead Researcher in model optimization.
-    image: https://example.com/johndoe.jpg
+    url: https://www.kaggle.com/anistaluqdar
     
     
   Jane Smith:
